@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaime Orln</h1>
+<h1 align="center">Hi 👋, I'm Jaime Orlando</h1>
 <h3 align="center">A passionate Software Engineer from México</h3>
 
 - 📫 How to reach me **jaimeorlando.lpz@gmail.com**

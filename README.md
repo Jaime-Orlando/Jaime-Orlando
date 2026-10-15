@@ -17,7 +17,7 @@ I'm currently studying business Japanese at **ISI Career Campus Takadanobaba** a
 
 ## Project
 
-**Medical Practice Platform** *(in development)* — A Java 21 / Spring Boot backend for medical practice management. Current work includes patient-management services, session-based doctor authentication, practice-scoped authorization, and automated tests. The repository is currently private; public documentation will be linked here once it has been reviewed for publication.
+**[Medical Practice Platform](https://github.com/Jaime-Orlando/medical-practice-platform)** *(in development)* — A public Java 21 / Spring Boot backend project for medical practice management. Implemented work includes patient-management services, session-based doctor authentication, practice-scoped authorization, and automated tests.
 
 ## Languages
 
